@@ -1,16 +1,51 @@
-## Hi there 👋
+Mlungisi Khoza
+QA Automation Engineer
 
-<!--
-**mkmlungisi7/mkmlungisi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail-oriented Software QA Engineer with 5+ years of experience in manual and automation testing. I specialize in API testing, end-to-end automation, and CI/CD testing pipelines. I enjoy building reliable automation frameworks that improve software quality and delivery speed.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automation Testing
+Playwright | Selenium | Cypress
+
+API Testing
+Postman | REST Assured
+
+Programming
+C# | Java | JavaScript | SQL
+
+Testing & DevOps Tools
+Jira | Azure DevOps | Jenkins | Git | Docker
+
+Methodologies
+Agile | Scrum | Test Automation Design | Integration Testing
+
+Featured Projects
+Playwright Automation Framework (C# + NUnit)
+
+End-to-end UI automation framework using Playwright and NUnit with Page Object Model structure.
+
+Key features:
+
+Cross-browser automation
+
+Page Object Model
+
+Test reporting
+
+CI-ready structure
+
+API Testing Collection
+
+Postman API test collection with automated assertions and environment configuration.
+
+Certifications
+
+AWS Developer Associate
+Oracle Certified Java Programmer (OCA/OCP)
+
+Currently Learning
+
+Cloud test automation
+Test architecture design
+Advanced Playwright automation
