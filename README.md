@@ -15,7 +15,7 @@ Programming
 C# | Java | JavaScript | SQL
 
 Testing & DevOps Tools
-Jira | Azure DevOps | Jenkins | Git | Docker
+Jira | Azure DevOps | Jenkins | Git | 
 
 Methodologies
 Agile | Scrum | Test Automation Design | Integration Testing
